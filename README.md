@@ -3,12 +3,12 @@
 # Exercise_02-01.py:
 1- Get sparse matrix from user with input() function
 
-2- Save the given matrix in sparse form to a list while save only non zero elements.
-(without any packages such as scipy)
-Example:
-user input: [[0 0 0 0 0 0 0 0 1],[0 1 0 0 0 1 0 0 0],[0 0 0 0 1 0 0 0 0]]
-For each non zero item save (row numer, col number, value)
-Save format: [(0,8,1),(1,1,1),(2,4,1)]
+2- Save the given matrix in sparse form to a list while save only non zero elements.\n
+(without any packages such as scipy)\n
+Example:\n
+user input: [[0 0 0 0 0 0 0 0 1],[0 1 0 0 0 1 0 0 0],[0 0 0 0 1 0 0 0 0]]\n
+For each non zero item save (row numer, col number, value)\n
+Save format: [(0,8,1),(1,1,1),(2,4,1)]\n
 
 3- Calculate matrix transpose
 

@@ -8,7 +8,7 @@
 Example:\
 user input: [[0 0 0 0 0 0 0 0 1],[0 1 0 0 0 1 0 0 0],[0 0 0 0 1 0 0 0 0]]\
 For each non zero item save (row numer, col number, value)\
-Save format: [(0,8,1),(1,1,1),(2,4,1)]\
+Save format: [(0,8,1),(1,1,1),(2,4,1)]
 
 3- Calculate matrix transpose
 
